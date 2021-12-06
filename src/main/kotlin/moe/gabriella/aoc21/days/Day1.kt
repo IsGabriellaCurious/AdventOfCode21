@@ -1,4 +1,6 @@
-package moe.gabriella.aoc21
+package moe.gabriella.aoc21.days
+
+import moe.gabriella.aoc21.AOCDay
 
 class Day1: AOCDay("day1.txt") {
 
